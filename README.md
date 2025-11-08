@@ -4,7 +4,7 @@ PhD in Sport Sciences | Researcher and professional in team sports load monitori
 
 ### Featured Projects
 - [CriticalSpeed_shiny](https://github.com/danielfrenandez/CriticalSpeed_shiny): Shiny app for critical speed and high-demand scenario analysis in women’s football.  
-- [EL_explorer](https://github.com/danielfrenandez/OtherProject): Shiny app for super simple external load analysis.
+- [EL_explorer](https://github.com/danielfrenandez/EL_Explorer): Shiny app for super simple external load analysis.
 - [player_trace](https://github.com/danielfrenandez/player_trace): Old simple code project for player trace ploting.
 
 ### Get in touch
