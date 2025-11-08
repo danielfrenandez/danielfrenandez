@@ -10,6 +10,7 @@ PhD in Sport Sciences | Researcher and professional in team sports load monitori
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/danielfrenandez)
 - [ResearchGate](https://www.researchgate.net/profile/Daniel-Fernandez-54)
+- [Stuff](https://linktr.ee/fernandezraventos)
 - Mail: fernandezraventos@gmail.com
 
 <details>
